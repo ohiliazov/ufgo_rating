@@ -1,0 +1,58 @@
+; TC[T190420D]
+; CL[A]
+; EV[Ukrainian Championship 2019, Quarterfinal]
+; PC[UA, Kyiv]
+; DT[2019-04-20,2019-04-21]
+; HA[h9]
+; KM[6.5]
+; TM[82.5]
+; CM[Ukrainian Championship 2019 - Quarterfinal, Ukraine, Kyiv, 20-21.04.2019, class A (basic time 60 minutes + byoyomi (Standard) 30sec x 3 times), even games (submitted by UFGO)]
+;.
+ 1 Zhurakovskyi Bohdan      5d UA  Rivn  24   5    109  109  7+/b0   4+/w0   2+/w0   3+/b0   5+/w0    |12374461
+ 2 Bohatskyi Dmytro         6d UA  Kyiv  23   4    110  86   6+/b0   3+/w0   1-/b0   4+/w0   8+/b0    |10250867
+ 3 Kachanovskyi Mykhailo    4d UA  Rivn  22   3    110  63   8+/b0   2-/b0   5+/w0   1-/w0   6+/b0    |12649175
+ 4 Yatsenko Dmytro          5d UA  Kyiv  22   3    109  62   5+/b0   1-/b0   8+/w0   2-/b0   10+/w0   |10286870
+ 5 Ovsiienko Vsevolod       1k UA  Kyiv  21   2    110  42   4-/w0   6+/w0   3-/b0   7+/w0   1-/b0    |17633902
+ 6 Lopatenko Kostiantyn     2d UA  Dnip  21   2    107  41   2-/w0   5-/b0   7+/b0   10+/w0  3-/w0    |10450847
+ 7 Hiliazov Oleksandr       2d UA  Khar  21   2    104  38   1-/w0   12+/b0  6-/w0   5-/b0   14+/w0   |16250531
+ 8 Lysiuk Dmytro            2d UA  Kyiv  21   2    104  37   3-/w0   15+/b0  4-/b0   12+/w0  2-/w0    |10874435
+ 9 Malko Olesia             3k UA  Rivn  21   3    78   38   26+/b0  22+/b0  10-/b0  19+/b0  11-/b0   |17874241
+10 Tarasenko Svitlana       4k UA  Kyiv  20   3    95   52   24+/b0  11+/b0  9+/w0   6-/b0   4-/b0    |13986654
+11 Melnyk Anna              5k UA  Kyiv  20   4    73   53   25+/b0  10-/w0  23+/b0  22+/b0  9+/w0    |17886517
+12 Petrashevska Nika        3k UA  Kyiv  19   1    97.5 17.5 18+/b0  7-/w0   14-/b0  8-/b0   13-/w0   |15786518
+13 Shchepaniuk Oleksandr    6k UA  Kyiv  19   4    92   73   17+/w0  16+/w0  15+/b0  14-/w0  12+/b0   |18062924
+14 Stefanovych Dmytro       6k UA  Rivn  19   4    91.5 70.5 21+/b0  18+/w0  12+/w0  13+/b0  7-/b0    |17813246
+15 Kachanovskyi Volodymyr   5k UA  Rivn  18   2    87   29   16+/b0  8-/w0   13-/w0  17-/b0  23+/w0   |12698180
+16 Suprun Serhii            5k UA  Kyiv  18   1    87   18   15-/w0  13-/b0  17+/w0  0=      0=       |14201275
+17 Halchenko Hryhorii       6k UA  Kyiv  18   3    81   44   13-/b0  20+/w0  16-/b0  15+/w0  22+/w0   |12349436
+18 Hresko Danylo            5k UA  Kyiv  17.5 0    86   0    12-/w0  14-/b0  0=      0=      0=       |17249716
+19 Symonenko Viktoriia      7k UA  Kyiv  17   3    67   35   22-/b0  26+/b0  25+/b0  9-/w0   20+/w0   |14733631
+20 Pushnia Yurii            9k UA  Kyiv  15   3    70   35   23+/b0  17-/b0  21+/w0  27+/w0  19-/b0   |17649907
+21 Donchak Oleksii          8k UA  Kyiv  15   2    66   21   14-/w0  23+/b0  20-/b0  24-/w0  25+/w0   |18301250
+22 Chernova Mariia         12k UA  Kyiv  11   2    85   26   19+/w0  9-/w0   27+/b0  11-/w0  17-/b0   |18562819
+23 Petrashevskyi Danyl     11k UA  Kyiv  11   1    78   10   20-/w0  21-/w0  11-/w0  25+/b0  15-/b0   |18533592
+24 Siver Yekateryna        13k UA  Kyiv  11   3    63   33   10-/w0  25-/w0  28+/b0  21+/b0  27+/w0   |17637906
+25 Viesich Sofiia          12k UA  Kyiv  10   1    74   11   11-/w0  24+/b0  19-/w0  23-/w0  21-/b0   |17213713
+26 Hrabarchuk Yeva         14k UA  Kyiv  10   3    62   24   9-/w0   19-/w0  31+/b0  33+/b0  28+/b0   |17833519
+27 Rekstynsh Volodymyr     14k UA  Kyiv  9    2    53   16   28+/w0  33+/b0  22-/w0  20-/b0  24-/b0   |17801729
+28 Artamonov Mykhailo      14k UA  Kyiv  9    2    47   17   27-/b0  31+/w0  24-/w0  29+/b0  26-/w0   |17662018
+29 Petryk Danylo           16k UA  Kyiv  9    4    39.5 30.5 32+/b0  30+/b0  33+/w0  28-/w0  34+/w0   |18601594
+30 Vlasenko Oleksandra     15k UA  Kyiv  9    3    38   21   31-/b0  29-/w0  34+/w0  35+/b0  33+/w0   |17825731
+31 Fenchak Anastasiia      15k UA  Kyiv  8    2    42   16   30+/w0  28-/b0  26-/w0  34-/b0  35+/w0   |18413978
+32 Zabihailo Anna          16k UA  Kyiv  7.5  2    33.5 12.5 29-/w0  35-/b0  0=      36+/w0  37+/b0   |18437980
+33 Kotsiuruba Sofiia       15k UA  Kyiv  7    1    44   7    36+/b0  27-/w0  29-/b0  26-/w0  30-/b0   |18437375
+34 Rybakov Artem           17k UA  Kyiv  7    3    40   22   35+/w0  36+/w0  30-/b0  31+/w0  29-/b0   |18374840
+35 Vlasenko Vlada          16k UA  Kyiv  7    2    38.5 14.5 34-/b0  32+/w0  36+/b0  30-/w0  31-/b0   |17833728
+36 Sokur Artem             15k UA  Kyiv  7    1    33.5 5    33-/w0  34-/b0  35-/w0  32-/b0  39+/w0   |18598591
+37 Rusanovska Nataliia     18k UA  Kyiv  5.5  2    22.5 7    0=      38-/b0  46+/w0  43+/w0  32-/w0   |18333249
+38 Troian Arsenii          18k UA  Kyiv  5    2    24.5 9.5  43+/b0  37+/w0  39-/b0  40-/w0  42-/b0   |18298126
+39 Chernova Vira           19k UA  Kyiv  5    3    23.5 11.5 47+/b0  43+/w0  38+/w0  41-/b0  36-/b0   |18962647
+40 Yudenko Vadym           20k UA  Kyiv  5    4    20   16   45+/w0  44+/b0  43-/b0  38+/b0  46+/w0   |19237647
+41 Kokozei Volodymyr        5d UA  Kyiv  5    5    19.5 19.5 0=      47+/w0  44+/w0  39+/w0  43+/b0   |10986536
+42 Skochko Vasyl            4d UA  Kyiv  5    5    19   19   48+/w0  45+/b0  0=      44+/b0  38+/w0   |10237876
+43 Hrachov Roman           18k UA  Kyiv  4    1    25.5 5    38-/w0  39-/b0  40+/w0  37-/b0  41-/w0   |19213183
+44 Vovchok Yan             19k UA  Kyiv  4    2    20   5    46+/b0  40-/w0  41-/b0  42-/w0  48+/b0   |18674326
+45 Savytskyi Avhust        20k UA  Kyiv  4    3    18   8    40-/b0  42-/w0  48+/w0  46+/b0  0=       |19237185
+46 Kornieiev Mykhailo      19k UA  Kyiv  3    1    20.5 2    44-/w0  48+/b0  37-/b0  45-/w0  40-/b0   |19249648
+47 Shlonskyi Vasyl         20k UA  Kyiv  2.5  0    13   0    39-/w0  41-/b0  0=      0=      0=       |19250649
+48 Ostapenko Nadiia        20k UA  Kyiv  2    1    17   1    42-/b0  46-/w0  45-/b0  0=      44-/w0   |18633593
