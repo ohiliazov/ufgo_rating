@@ -101,10 +101,59 @@ ratings = {
     47: 100,
     48: 100,
 }
+expected_ratings = {
+    1: 2541,
+    2: 2535,
+    3: 2384,
+    4: 2458,
+    5: 2111,
+    6: 2205,
+    7: 2228,
+    8: 2238,
+    9: 1790,
+    10: 1758,
+    11: 1642,
+    12: 1836,
+    13: 1612,
+    14: 1628,
+    15: 1617,
+    16: 1579,
+    17: 1536,
+    18: 1611,
+    19: 1455,
+    20: 1335,
+    21: 1264,
+    22: 1070,
+    23: 1000,
+    24: 979,
+    25: 951,
+    26: 875,
+    27: 796,
+    28: 818,
+    29: 714,
+    30: 709,
+    31: 610,
+    32: 488,
+    33: 568,
+    34: 524,
+    35: 508,
+    36: 467,
+    37: 367,
+    38: 314,
+    39: 358,
+    40: 327,
+    41: 2432,
+    42: 2394,
+    43: 251,
+    44: 320,
+    45: 238,
+    46: 104,
+    47: 107,
+    48: 100
+}
 
 
 def test_calculate_tournament():
     new_ratings = calculate_tournament(ratings, data)
-    print()
-    for key in ratings.keys():
-        print(key, ratings[key], round(new_ratings[key]))
+    rounded_ratings = {key: round(new_ratings[key]) for key in new_ratings}
+    assert rounded_ratings == expected_ratings

@@ -37,6 +37,18 @@ for person in soup.table.find_all('tr'):
     player_data = person.find_all('td')
     players.append(Player(player_data))
 
+cities = {
+    'Рівне': 1,
+    'Київ': 2,
+    'Херсон': 3,
+    'Кривий Ріг': 4,
+    'Дніпро': 5,
+    'Харків': 6,
+}
+
+for p in players:
+    last_name, first_name = p.full_name.split(' ')
+    print(f'(NULL, {cities[p.city]}, "{first_name}", "{last_name}", "{p.rank}", "{p.degree}"),')
 
 with open('ufgo_ratings', 'wb') as file:
     pickle.dump(players, file)
